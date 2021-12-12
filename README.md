@@ -1,5 +1,5 @@
-Ani-chan(https://telegra.ph/file/0143ea7f66d8fbf9c6561.jpg)
-Telegram Bot Repo Capable of fetching the following Info via Anilist API inspired from [AniFluid](https://t.me/anifluidbot) and [Nepgear](https://t.me/nepgearbot)
+![Ani-chan](https://telegra.ph/file/0143ea7f66d8fbf9c6561.jpg)
+Telegram Bot Repo Capable of fetching the following Info via Anilist API inspired from [Nepgear](https://t.me/nepgearbot)
 * Anime
 * Airing
 * Manga
